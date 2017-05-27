@@ -10,5 +10,5 @@
         android:orientation="vertical"
         android:padding="20dp">
 
-            </LinearLayout>
+    </LinearLayout>
 </ScrollView>
